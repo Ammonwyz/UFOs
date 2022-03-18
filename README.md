@@ -5,15 +5,9 @@
 
 Resources
 
-Data: 
+Data:  data.js
 
-  data.js
-
-Software:
-
-  Visual studio code
-
-  JavaScript
+Software:  Visual studio code, JavaScript
 
 ## Results: 
 
