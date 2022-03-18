@@ -1,19 +1,19 @@
 # UFOs
 ## Overview of the analysis: 
 
-We are helping Dena to create a website release UFOs information, which include picture, table, and article.
+  We are helping Dena to create a website release UFOs information, which include picture, table, and article.
 
 Resources
 
 Data: 
 
-data.js
+  data.js
 
 Software:
 
-Visual studio code
+  Visual studio code
 
-JavaScript
+  JavaScript
 
 ## Results: 
 
