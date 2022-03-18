@@ -30,6 +30,9 @@ Drawback:
 
 The downside of this site is that it is limited by the design of search engines. For example: to search for a city name, you must first know the exact full name of the city, even case-sensitive.
 
+![web searching error](https://user-images.githubusercontent.com/95401877/158940547-02b24e28-00dc-4198-a1d8-160f23d9fb3d.png)
+
+
 Recommendations:
 
 1. The city searching is too limited. The search scope of city names should be relaxed, for example, related cities can be searched by one word.
